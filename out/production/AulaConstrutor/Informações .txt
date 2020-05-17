@@ -1,0 +1,19 @@
+Encapsulamento
+São os gets e os sets
+
+Sobrecarga
+A possibilidade de criar mais de um contrutor na mesma classe, com atributos diferentes, ou sem atributos.
+
+This
+É a possibilidade de atibuir o valor de uma variavel na variavél do metodo/ construtor.
+
+Modificadores de acesso
+Modificadores de acesso são as informações colocadas antes da variavél ou do metodo para identificar o tipo de acesso
+que será permitido.
+Os modificadores são:
+Public: A variavél/ metodo pode ser acessado por qualquer classe, menos por uma classe que resida em um modulo diferente
+que não exporte o pacote onde esta.
+Private: Só pode ser acessado pela propria classe em que foi declarado.
+Protected: Só pode ser acessado por classes do mesmo pacote, bem como em subclasses de pacotes diferentes.
+Vazio: Só pode ser acessado pelas classes do mesmo pacote.
+
